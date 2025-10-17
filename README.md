@@ -1,4 +1,4 @@
 atej
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinipux28&show_icons=true&locale=en&layout=compact&theme=dark&v=6" alt="vinipux28" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinipux28&show_icons=true&locale=en&layout=compact&theme=dark&v=6&acc=2" alt="vinipux28" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinipux28&show_icons=true&locale=en&theme=dark&v=6" alt="vinipux28" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinipux28&show_icons=true&locale=en&theme=dark&v=6&acc=2" alt="vinipux28" /></p>
